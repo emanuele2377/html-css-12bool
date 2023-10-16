@@ -1,0 +1,29 @@
+
+body {
+    font-family: sans-serif;
+
+}
+
+.box {
+    background: dodgerblue;
+    border: solid 3px white;
+    padding: 0.20rem;
+    color: white;
+    height: 100%;
+}
+
+.box-lime {
+    background:lime ;
+    border: solid 3px white;
+    padding: 0.25rem;
+    color: white;
+    height: 100%;
+}
+
+.box-2 {
+    background: dodgerblue;
+    border: solid 3px white;
+    padding: 1.2rem;
+    color: white;
+    height: 100%;
+}
